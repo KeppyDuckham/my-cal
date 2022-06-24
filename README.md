@@ -1,2 +1,2 @@
-# javascript-introduction
-# my page link  https://hashimhadizah.github.io/javascript-introduction/
+# js--my-calc
+#  https://keppyduckham.github.io/my-calc/
